@@ -1,1 +1,1 @@
-Simple content file.
+Simple content file. Sample content.
