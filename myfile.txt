@@ -1,2 +1,2 @@
 Hello,
-Lorem Ipsum Text, Lorem Ipsum Text
+Lorem Ipsum Text, Lorem
